@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "imgPath": "src/assets/images/bun-ca.jpg",
+        "name": "Bún cá",
+        "slug": "bun-ca",
+        "recipe": "src/assets/txt/bun-ca.txt",
+        "desc": [
+            "As one of the famous specialties of Kien Giang, Kien Giang fish noodle soup offers a refreshing, subtly sweet flavor that leaves a lasting impression on anyone who tries it. This dish promises unforgettable bites of firm snakehead fish, tender rice noodles, and a clear broth that’s less oily than many other noodle soups. The toppings include fresh fish, greens, shrimp, and delicious fish sauce. Combined with the light, subtly sweet broth and soft rice noodles, this bowl of fish noodle soup becomes a delightful treat. When savoring Kien Giang fish noodle soup, you’ll enjoy the sweetness of the fish, the cool freshness of morning glory and banana blossoms, and the spicy aroma of Vietnamese coriander.",
+            "With a variety of ingredients, preparation methods, and distinct culinary preferences in each region of Vietnam, fish noodle soup has developed many unique variations. Northern Vietnam features dishes such as Hai Phong spicy fish noodle soup, Hanoi fish noodle soup, Hai Duong snakehead fish noodle soup, and Thai Binh mixed fish noodle soup. Central Vietnam is famous for mackerel fish noodle soup, grilled fish cake noodle soup, and tuna fish noodle soup. Southern Vietnam is known for specialties like Chau Doc fish noodle soup and Kien Giang fish noodle soup."
+        ]
+    },
+    {
+        "id": 2,
+        "imgPath": "src/assets/images/hu-tieu-my-tho.jpg",
+        "name": "Hủ tiếu Mỹ Tho",
+        "slug": "hu-tieu-my-tho",
+        "recipe": "src/assets/txt/hu-tieu-my-tho.txt",
+        "desc": [
+            "Besides the rich, sweet broth with flavors of the southwestern region, this dish also stands out for its small, dry, chewy, and crispy rice noodles. My Tho rice noodles are a famous brand in the South, alongside Sa Dec and Nam Vang noodles. This is one of the dishes that can be enjoyed for breakfast, lunch, and dinner and is very familiar to people in the southwestern region of Vietnam.",
+            "One of the easily recognizable features of this dish is its small, dry, chewy, and crispy rice noodles with a slightly tangy taste, made from Go Cat rice grown in My Phong Commune, My Tho City. This type of rice, when mixed with water, steamed, and then dried, is cut into noodles with a firm texture. Aside from the distinctive noodles, My Tho rice noodles are memorable for their rich, sweet, and aromatic broth. The secret to an excellent broth lies in the use of pork bones, dried squid, dried shrimp, white radish, and other ingredients. The dish also includes sliced meat, ground pork, liver, shrimp, as well as fresh bean sprouts, lettuce, celery, fried shallots, lime, chili, pepper, and satay."
+        ]
+    },
+    {
+        "id": 3,
+        "imgPath": "src/assets/images/bun-nuoc-leo.jpg",
+        "name": "Bún nước lèo",
+        "slug": "bun-nuoc-leo",
+        "recipe": "src/assets/txt/bun-nuoc-leo.txt",
+        "desc": [
+            "Bun nuoc leo is a popular noodle soup in many provinces of southern Vietnam, especially well-known in Soc Trang, Tra Vinh, Chau Doc, Ca Mau, and Bac Lieu. Originally a Khmer culinary specialty, this dish became a shared meal among the Khmer, Vietnamese, and Chinese communities in southern Vietnam as their cultures and cuisines intertwined. As a result, bun nuoc leo has become a dish enjoyed by all three groups, with ingredients, preparation, and taste largely similar.",
+            "The most famous bun nuoc leo comes from Soc Trang. Known as one of the signature dishes of this region, it uniquely blends the fermented fish broth and snakehead fish from the Khmer, shredded banana blossom and water spinach from the Vietnamese, and crispy roasted pork from the Chinese. Soc Trang’s bun nuoc leo is also recognized as one of Vietnam's top 100 specialty dishes."
+        ]
+    },
+    {
+        "id": 4,
+        "imgPath": "src/assets/images/com-tam-long-xuyen.jpg",
+        "name": "Cơm tấm Long Xuyên",
+        "slug": "com-tam-long-xuyen",
+        "recipe": "src/assets/txt/com-tam-long-xuyen.txt",
+        "desc": [
+            "Alongside pho and banh mi, com tam (broken rice) is one of the Vietnamese specialties that leaves a lasting impression on international friends. It is called com tam because it is made from broken rice grains—grains that break during the milling process. A delicious, hot plate of com tam is best enjoyed with grilled pork, pork skin, steamed egg, a sunny-side-up egg, and pickled vegetables. A key component of this dish is the sweet and sour fish sauce, complemented by the fragrant green onion oil.",
+            "Starting as a simple breakfast dish, com tam (broken rice) gradually became a renowned specialty of southern Vietnamese cuisine and can now be found throughout all three regions of the country—and even abroad. Each locality has its own unique variations, adapting the dish to suit local tastes. If you find yourself in Long Xuyen city, An Giang province, you must try the com tam there. Although it shares the same name as the famous version in Saigon, the preparation, presentation, and flavor of Long Xuyen’s com tam stand out with distinct differences.",
+            "While most of the rice grains used in com tam in Saigon or other provinces are larger, in Long Xuyen, locals prefer using finer grains. As a result, when cooked, Long Xuyen’s com tam rice grains are about half the size of those elsewhere. When tasting, you can easily sense the light fragrance, mild nuttiness, and subtle sweetness of the rice, with the grains almost melting in your mouth. Besides the tiny rice grains, other components of a Long Xuyen com tam plate are also finely cut. Instead of serving a whole grilled pork chop as in Saigon, the locals slice the meat very thin, and other ingredients like shredded pork skin and braised egg are also fully cut into small pieces. A complete plate of com tam includes pickled vegetables, scallion oil, and a thick, rich fish sauce."
+        ]
+    },
+    {
+        "id": 5,
+        "imgPath": "src/assets/images/bun-hai-san-be-be.jpg",
+        "name": "Bún hải sản bề bề",
+        "slug": "bun-hai-san-be-be",
+        "recipe": "src/assets/txt/bun-hai-san-be-be.txt",
+        "desc": [
+            "Be be, a popular seafood in the coastal region of Ha Long (Quang Ninh), is a name used by locals, though it is more commonly known in other regions as mantis shrimp or 'tom tich' and 'tom tit'.",
+            "Ha Long's be be has become a famous specialty thanks to its sweet, rich flavor and meatier texture compared to those from other areas. Dishes made with be be are varied and highly nutritious. Among the most notable and popular is Ha Long’s be be noodle soup—a simple yet nutritious and unique-tasting dish."
+        ]
+    },
+    {
+        "id": 6,
+        "imgPath": "src/assets/images/banh-hoi-heo-quay.jpg",
+        "name": "Bánh hỏi heo quay",
+        "slug": "banh-hoi-heo-quay",
+        "recipe": "src/assets/txt/banh-hoi-heo-quay.txt",
+        "desc": [
+            "From ingredient selection to preparation, every step is handled by skilled artisans with years of experience, ensuring consistent quality in each batch of rice noodles and juicy slices of roasted pork. Of course, the soul of the dish lies in the sweet and tangy garlic-chili fish sauce that excites the palate. These elements have established the renowned Phong Dien roasted pork with rice noodles, a celebrated specialty of the southwestern region of Vietnam. This delicacy, tied to the childhoods of many locals, often graces wedding feasts, commemorations, and festive gatherings. Locals frequently serve it to friends and family when they come to visit."
+        ]
+    },
+    {
+        "id": 7,
+        "imgPath": "src/assets/images/com-ga.jpg",
+        "name": "Cơm gà",
+        "slug": "com-ga",
+        "recipe": "src/assets/txt/com-ga.txt",
+        "desc": [
+            "Chicken rice has been around since around 1950. Tam Ky is known for its delicious chicken, so it is believed that the dish may have originated there. With creativity and skillful hands, people in Hoi An then used fresh Tam Ky chicken and fragrant, sticky rice grown along the Thu Bon River to create the famous, aromatic chicken rice. Originally, chicken rice was sold by street vendors along the alleys and streets of Hoi An’s ancient town. Gradually, it began to be served in larger restaurants, and its popularity has since grown widely.",
+            "Hoi An chicken rice—a refined dish suitable for any occasion—has long been a source of pride for the people of Hoi An. This is why there's a saying, 'If you haven't eaten chicken rice, you haven't truly been to Hoi An.' Diners also love Hoi An chicken rice because each component reflects the unique essence of Quang Nam province, allowing them to experience a distinct flavor profile with every bite.",
+            "A standard serving of chicken rice must be prepared with high-quality rice and chicken. The chicken is usually free-range, weighing over 1 kg. The selected rice is sticky and fragrant, cooked with chicken broth and pandan leaves. This specialty dish from Hoi An is typically served with a bowl of chicken broth that includes eggs and gizzards, along with a sauce made according to a unique recipe."
+        ]
+    },
+    {
+        "id": 8,
+        "imgPath": "src/assets/images/cao-lau.jpg",
+        "name": "Cao lầu",
+        "slug": "cao-lau",
+        "recipe": "src/assets/txt/cao-lau.txt",
+        "desc": [
+            "Cao lầu is a noodle dish from Quang Nam, Vietnam, and is considered a specialty of Hoi An. This dish features yellow noodles served with shrimp, barbecued pork (xá xíu), fresh vegetables, and very little broth. The yellow color of the noodles comes from mixing the flour with ash from a local tree.",
+            "Historical records indicate that cao lầu emerged in the 17th century, during a time when Chinese and Japanese traders frequently visited the port of Hoi An. They brought their culinary traditions with them, which gradually led to the creation of cao lầu—viewed as a fusion of Chinese and Japanese cuisine. Moreover, the dish has evolved over time to suit the tastes of the Vietnamese, ultimately becoming a beloved specialty of the Central region."
+        ]
+    },
+    {
+        "id": 9,
+        "imgPath": "src/assets/images/mi-quang.jpg",
+        "name": "Mì Quảng",
+        "slug": "mi-quang",
+        "recipe": "src/assets/txt/mi-quang.txt",
+        "desc": [
+            "Mì Quảng (which means 'Noodles from Quang') is a dish that originates from Quang Nam Province and is considered a specialty of the region. Mì Quảng is a type of noodle typically made from finely ground rice flour mixed with water from the yellow flower and eggs to achieve its yellow color. The mixture is spread into thin sheets, which are then cut into thin noodles approximately 5-10mm wide.",
+            "When preparing this dish, the noodles are served with a variety of fresh herbs, and to truly capture the rich flavor of Mì Quảng, it must be accompanied by nine types of herbs: basil, fresh lettuce, young mustard greens, bean sprouts (which can be blanched or left raw), cilantro, Vietnamese mint, chopped scallions, and thinly sliced banana flower.",
+            "On top of the noodles, there is typically pork, shrimp, chicken, snakehead fish (and sometimes boiled eggs), all served with a broth made from pork bones. Additional toppings may include chopped scallions, fresh herbs, and red chili. The broth is often referred to as 'nước nhân' (essence water); it's a very concentrated broth with little liquid. Additionally, Mì Quảng is often served with sesame rice crackers and garnished with crunchy roasted peanuts, which contribute to its distinctive flavor."
+        ]
+    },
+    {
+        "id": 10,
+        "imgPath": "src/assets/images/bun-bo-hue.jpg",
+        "name": "Bún bò Huế",
+        "slug": "bun-bo-hue",
+        "recipe": "src/assets/txt/bun-bo-hue.txt",
+        "desc": [
+            "Bún bò Huế is one of the specialties of Thừa Thiên Huế Province, although this dish is popular throughout all three regions of Vietnam and among Vietnamese communities abroad. In Thừa Thiên Huế, it is simply referred to as 'bún bò' or more specifically as 'bún bò thịt bò' (beef noodles). In other regions, it is called 'bún bò Huế' or 'bún bò gốc Huế' to denote its origin. Authentic Huế-style bún bò is primarily made from rice noodles, beef shank, pork leg, and a distinctive red broth colored by chili and flavored with lemongrass and fermented shrimp paste.",
+            "In the broth of bún bò, the people of Huế often season it with a little fermented shrimp paste and lemongrass, which contribute to the unique flavor of Huế beef noodles. Bún bò Huế is typically served with chopped green onions, thinly sliced onions, lime, quality fish sauce mixed with whole chili peppers, and Huế-style chili sauce. Traditionally, the people of Huế did not eat bún bò Huế with fresh herbs. If herbs were included, it would usually be thinly sliced banana blossom, a few aromatic herbs (such as mint), and Vietnamese coriander. Authentic Huế-style bún bò does not include raw beef, pork sausage, but rather consists of pork leg, beef shank, and beef tendons; blood pudding and crab cake are added depending on the restaurant."
+        ]
+    },
+    {
+        "id": 11,
+        "imgPath": "src/assets/images/pho-bo.jpg",
+        "name": "Phở bò",
+        "slug": "pho-bo",
+        "recipe": "src/assets/txt/pho-bo.txt",
+        "desc": [
+            "For a long time, beef pho has been a traditional dish that has helped elevate Vietnam on the global culinary map. Pho originated from the streets, starting as humble food carts serving the poor, and gradually gained popularity in restaurants and eateries. It was born in the Red River Delta and migrated southward with the flow of people. Today, not only in Vietnam but also in many countries around the world, you can enjoy beef pho. Pho has become the top choice for Vietnamese people for breakfast and even for lunch and dinner. To cook delicious and authentic beef pho, you just need a few tips and tricks to succeed."
+        ]
+    },
+    {
+        "id": 12,
+        "imgPath": "src/assets/images/bun-muc.jpg",
+        "name": "Bún mực",
+        "slug": "bun-muc",
+        "recipe": "src/assets/txt/bun-muc.txt",
+        "desc": [
+            "As one of the famous specialties of Kien Giang, Kien Giang fish noodle soup offers a refreshing, subtly sweet flavor that leaves a lasting impression on anyone who tries it. This dish promises unforgettable bites of firm snakehead fish, tender rice noodles, and a clear broth that’s less oily than many other noodle soups. The toppings include fresh fish, greens, shrimp, and delicious fish sauce. Combined with the light, subtly sweet broth and soft rice noodles, this bowl of fish noodle soup becomes a delightful treat. When savoring Kien Giang fish noodle soup, you’ll enjoy the sweetness of the fish, the cool freshness of morning glory and banana blossoms, and the spicy aroma of Vietnamese coriander.",
+            "With a variety of ingredients, preparation methods, and distinct culinary preferences in each region of Vietnam, fish noodle soup has developed many unique variations. Northern Vietnam features dishes such as Hai Phong spicy fish noodle soup, Hanoi fish noodle soup, Hai Duong snakehead fish noodle soup, and Thai Binh mixed fish noodle soup. Central Vietnam is famous for mackerel fish noodle soup, grilled fish cake noodle soup, and tuna fish noodle soup. Southern Vietnam is known for specialties like Chau Doc fish noodle soup and Kien Giang fish noodle soup."
+        ]
+    },
+    {
+        "id": 13,
+        "imgPath": "src/assets/images/bun-moc.jpg",
+        "name": "Bún mọc",
+        "slug": "bun-moc",
+        "recipe": "src/assets/txt/bun-moc.txt",
+        "desc": [
+            "Phu Yen squid noodle often uses small squid, not too long. This type of squid provides just the right texture—tender yet chewy—and is sweeter than other squid varieties. A perfectly prepared bowl of squid noodle is always visually appealing! You’ll see the red of tomatoes and chili, the yellow of pineapple, the green of chives (and in some places, they even add celery), and the white of the noodles. It’s truly a dish filled with vibrant colors, isn’t it? Squid noodle is a humble dish, not overly complicated, reflecting the essence of the people from the land of yellow flowers and green grass.",
+            "The special appeal of this dish lies in the squid. The squid must be fresh, with a certain level of chewiness and tenderness. The broth should be clear, with a slight pink-red hue from the tomatoes, and it must have a fragrant aroma of pineapple. In some places, celery is added, which enhances the flavor of the squid noodle even more."
+        ]
+    },
+    {
+        "id": 14,
+        "imgPath": "src/assets/images/bun-dau-mam-tom.jpg",
+        "name": "Bún đậu mắm tôm",
+        "slug": "bun-dau-mam-tom",
+        "recipe": "src/assets/txt/bun-dau-mam-tom.txt",
+        "desc": [
+            "Bún đậu mắm tôm is a simple, rustic dish in Northern Vietnamese cuisine, originating from Hanoi. It is often enjoyed as a light meal, a snack, or sometimes as a main dinner. The main components include fresh rice noodles, golden-fried tofu, grilled pork sausage, boiled pork, fermented pork roll, blood sausage, shrimp paste mixed with lime and chili, and it is served with various aromatic herbs such as perilla, mint, lettuce, and eggplant. Like other traditional dishes, its low price makes it popular among the working class, leading to a good income for those selling these foods."
+        ]
+    },
+    {
+        "id": 15,
+        "imgPath": "src/assets/images/pho-ga.jpg",
+        "name": "Phở gà",
+        "slug": "pho-ga",
+        "recipe": "src/assets/txt/pho-ga.txt",
+        "desc": [
+            "There are several theories suggesting that Chicken Pho was born around 1939. One reason for its creation is believed to be the shortage of beef at that time. A story goes that cattle slaughter was limited because buffalo and oxen provided essential labor for Vietnam’s rice farming. As a result, on Mondays and Fridays, pho stalls would close since they couldn’t obtain beef. To serve pho enthusiasts in Hanoi, vendors began experimenting with a new dish: Hanoi Chicken Pho.",
+            "Chicken Pho captivates diners with the aroma of scallions, cilantro, and tender young lime leaves. The dish features tender pieces of chicken that are juicy, not dry, with gleaming white meat and golden skin, served alongside soft pho noodles. A few slices of red chili add a pop of color. Some places even add a creamy, rich cluster of young chicken eggs to the bowl. All of this combines to create a vibrant, rustic flavor that leaves a lasting impression in the mind of the diner."
+        ]
+    }
+]
